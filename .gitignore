@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project
+agent_runs.db
+agent_runs.db-wal
+agent_runs.db-shm
